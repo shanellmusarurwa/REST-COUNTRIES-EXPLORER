@@ -15,7 +15,7 @@ A responsive web app built with Vanilla JavaScript and Bootstrap 5.3.3 that allo
 🧩 Built with Bootstrap 5 grid and components
 
 🚀 Live Preview
-(If hosted, add the live link here)
+https://countries-alpha-six.vercel.app/
 
 📁 Project Structure
 bash
@@ -32,8 +32,6 @@ Vanilla JavaScript
 
 HTML5 & CSS3
 
-📸 Screenshots
-(You can add images or GIFs here showing the UI in light and dark mode, or filtering in action.)
 
 🧠 How It Works
 On page load, all countries are fetched using https://restcountries.com/v3.1/all.
